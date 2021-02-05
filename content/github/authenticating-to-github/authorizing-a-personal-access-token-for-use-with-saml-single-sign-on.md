@@ -1,4 +1,4 @@
----
+https://www.financialhealth.net/feds-take-action-against-big-bank/?utm_placement=fhn&utm_source=general-SR-SL-JOB-04-S482-02042021-44-AJ-BB----
 title: Authorizing a personal access token for use with SAML single sign-on
 intro: 'To use a personal access token with an organization that uses SAML single sign-on (SSO), you must first authorize the token.'
 redirect_from:
